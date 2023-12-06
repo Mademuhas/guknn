@@ -75,6 +75,7 @@ fastjsonschema @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_ebruxzvd08/cro
 filelock @ file:///C:/b/abs_c7yrhs9uz2/croot/filelock_1672387617533/work
 flake8 @ file:///C:/b/abs_9f6_n1jlpc/croot/flake8_1674581816810/work
 Flask @ file:///C:/b/abs_ef16l83sif/croot/flask_1671217367534/work
+Flask-Cors==4.0.0
 flatbuffers==23.5.26
 fonttools==4.25.0
 frozenlist @ file:///C:/b/abs_2bb5uzghsi/croot/frozenlist_1670004511812/work
